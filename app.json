@@ -1,7 +1,7 @@
 {
     "name": "Music Player",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
-    "logo": "https://github.com/AsmSafone/MusicPlayer/raw/master/theme/logo.png",
+    "logo": "https://raw.githubusercontent.com/xouw/GBvoice/main/theme/music-logo-png-2356.png",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -28,7 +28,7 @@
         "required": false
       },
       "SESSION": {
-        "description": "Pyrogram session string, get it from https://replit.com/@AsmSafone/genStr",
+        "description": "Pyrogram session string, get it from https://replit.com/@xouw/GenerateStringSession/",
         "required": true
       },
       "SUDOERS": {
