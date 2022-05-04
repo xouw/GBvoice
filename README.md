@@ -64,7 +64,7 @@ Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
 
 - Legecy Method
 ```bash
-$ git clone https://github.com/AsmSafone/MusicPlayer
+$ git clone https://github.com/xouw/GBvoice
 $ cd MusicPlayer
 $ sudo apt install git curl python3-pip ffmpeg -y
 $ pip3 install -U pip
@@ -80,7 +80,7 @@ $ python3 main.py
 
 - Docker Build Method
 ```bash
-$ git clone https://github.com/AsmSafone/MusicPlayer
+$ git clone https://github.com/xouw/GBvoice
 $ cd MusicPlayer
 $ cp sample.env .env
 # < edit .env with your own values >
@@ -92,7 +92,7 @@ $ sudo docker run musicplayer
 
 - `API_ID`: Telegram app id from https://my.telegram.org/apps.
 - `API_HASH`: Telegram app hash from https://my.telegram.org/apps.
-- `SESSION`: Pyrogram string session. You can generate from [here](https://replit.com/@AsmSafone/genStr).
+- `SESSION`: Pyrogram string session. You can generate from [here](https://replit.com/@xouw/GenerateStringSession).
 - `SUDOERS`: ID of sudo users (separate multiple ids with space).
 - `BOT_TOKEN`: Telegram bot token from https://t.me/botfather. (optional)
 - `QUALITY`: Custom stream quality (high/medium/low) for the userbot in vc. Default: `high`
@@ -141,14 +141,14 @@ New languages, bug fixes and improvements following
 
 ## 🛫 <a name="supports"></a>Supports
 
-For any kind of help join [our support group](https://t.me/AsmSupport) or raise an [issue](https://github.com/AsmSafone/MusicPlayer/issues).
+For any kind of help join [our support group](https://t.me/AsmSupport) or raise an [issue](https://github.com/xouw/GBvoice/issues).
 
 ## ✨ <a name="credits"></a>Credits
 
-- [Me](https://github.com/AsmSafone) for [Noting](https://github.com/AsmSafone/MusicPlayer) 😬
+- [Me](https://github.com/xouw) for [Noting](https://github.com/xouw/GBvoice) 😬
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
 - [Laky-64](https://github.com/Laky-64) for [Py-TgCalls](https://github.com/pytgcalls/pytgcalls) ❤️
-- And Thanks To All [Contributors](https://github.com/AsmSafone/MusicPlayer/graphs/contributors)! ❤️
+- And Thanks To All [Contributors](https://github.com/xouw/GBvoice/graphs/contributors)! ❤️
 
 ## 📃 <a name="license"></a>License
 
